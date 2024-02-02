@@ -1,0 +1,9 @@
+.footer__title  {
+  display: flex;
+  justify-content: center;
+}
+
+.footer__title > p {
+  font-size: 17px;
+  font-weight: bold;
+}

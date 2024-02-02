@@ -1,0 +1,19 @@
+.container__big-card{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.big-card__img > img{
+  width: 300px;
+  height: 400px;
+  border-radius: 5px;
+}
+
+.big-card__title > h1 {
+  margin-top: 0;
+}
+
+.big-card__title > h1 > a {
+  text-decoration: none;
+}

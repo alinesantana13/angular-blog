@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+  .container__menu-bar {
+    font-size: 15px;
+  }
+
+  .container__menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+  }
+}
